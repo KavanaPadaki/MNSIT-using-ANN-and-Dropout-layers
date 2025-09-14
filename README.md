@@ -51,7 +51,7 @@ This project demonstrates how to build, train, and evaluate a neural network on 
   - `5` ↔ `3` or `8`
   - `9` ↔ `4` or `7`
   - `8` ↔ `3`, `5`, `7`
-- **Improvement ideas:** Data augmentation (rotation, shift, zoom), CNN architecture for spatial feature extraction.
+
 
 ---
 
